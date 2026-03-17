@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=435&lines=Hi!+I'm+Matt+✌️;Full-Stack+Developer;Freelancer+%40+Upwork" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Hello,+my+name+is+Matheus+de+Oliveira+Radeze" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="LINK_DO_SEU_GIF_AQUI" width="600" />
+  <img src="COLE_O_LINK_GERADO_PELO_GITHUB_AQUI" width="600" />
 </div>
 
 ### 👨‍💻 About Me
