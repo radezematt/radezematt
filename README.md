@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="COLE_O_LINK_GERADO_PELO_GITHUB_AQUI" width="600" />
+  <img src="https://www.behance.net/gallery/92880429/ROG-Wallpaper-Design/modules/536745309 " width="600" />
 </div>
 
 ### 👨‍💻 About Me
