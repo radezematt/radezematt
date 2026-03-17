@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=26&pause=2000&color=00FF41&width=600&lines=Hi+there,+I'm+Matheus+(Matt)+👋;Wake+up,+Matt...;The+Matrix+has+you..." alt="Typing effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=600&size=26&pause=2000&color=00FF41&width=600&lines=Hi+there,+I%27m+Matheus+(Matt);Wake+up,+Matt...;The+Matrix+has+you..." alt="Typing effect" />
 </div>
 
 I'm a Full-Stack Developer and Freelancer with a highly systematic and logical approach to coding. Always striving to apply the principles of *The Pragmatic Programmer* to build robust solutions.
