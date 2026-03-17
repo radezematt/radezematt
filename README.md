@@ -14,27 +14,24 @@ I'm a Full-Stack Developer and Freelancer with a highly systematic and logical a
 ![rogpixelart](https://github.com/user-attachments/assets/e8bae6cd-9863-4c72-9088-ca17bde93096)
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>My Stack ~</h3>
-      
-      <b>Linguagens de Programação</b><br>
-      <img src="https://skillicons.dev/icons?i=py,js,html,css,ts,java,kotlin" /><br><br>
-      
-      <b>Ferramentas</b><br>
-      <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
-      <img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm-watson&logoColor=white" /><br><br>
-      
-      <b>Sistemas Operacionais</b><br>
-      <img src="https://skillicons.dev/icons?i=linux,windows" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://i.pinimg.com/originals/b6/2a/c3/b62ac38274a26bbbbba142d765d7fa44.gif" width="100%" />
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h3>My Stack ~</h3>
+<b>Linguagens de Programação</b><br>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,ts,java,kotlin" /><br><br>
+<b>Ferramentas</b><br>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/IBM_Watson-052FAD?style=for-the-badge&logo=ibm-watson&logoColor=white" /><br><br>
+<b>Sistemas Operacionais</b><br>
+<img src="https://skillicons.dev/icons?i=linux,windows" />
+</td>
+<td width="50%" valign="top">
+<img src="https://i.pinimg.com/originals/b6/2a/c3/b62ac38274a26bbbbba142d765d7fa44.gif" width="100%" />
+</td>
+</tr>
 </table>
 
 ---
