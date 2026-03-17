@@ -11,7 +11,7 @@ I'm a Full-Stack Developer and Freelancer with a highly systematic and logical a
 📖 Currently reading: *The Pragmatic Programmer*
 
 ---
-![rogpixelart](https://github.com/user-attachments/assets/e8bae6cd-9863-4c72-9088-ca17bde93096)
+
 
 <table>
 <tr>
@@ -29,7 +29,7 @@ I'm a Full-Stack Developer and Freelancer with a highly systematic and logical a
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </td>
 <td width="50%" valign="top">
-<img src="https://i.pinimg.com/originals/b6/2a/c3/b62ac38274a26bbbbba142d765d7fa44.gif" width="100%" />
+![rogpixelart](https://github.com/user-attachments/assets/e8bae6cd-9863-4c72-9088-ca17bde93096)
 </td>
 </tr>
 </table>
