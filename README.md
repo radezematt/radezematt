@@ -12,7 +12,6 @@ I'm a Full-Stack Developer and Freelancer with a highly systematic and logical a
 
 ---
 
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -29,7 +28,7 @@ I'm a Full-Stack Developer and Freelancer with a highly systematic and logical a
 <img src="https://skillicons.dev/icons?i=linux,windows" />
 </td>
 <td width="50%" valign="top">
-![rogpixelart](https://github.com/user-attachments/assets/e8bae6cd-9863-4c72-9088-ca17bde93096)
+<img src="https://github.com/user-attachments/assets/e8bae6cd-9863-4c72-9088-ca17bde93096" width="100%" />
 </td>
 </tr>
 </table>
